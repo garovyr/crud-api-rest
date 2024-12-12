@@ -1,5 +1,8 @@
 package com.examen.crud.model;
 
+import lombok.Data;
+
+@Data
 public class Book {
 
     private Long id;
